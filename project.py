@@ -4,6 +4,10 @@ import uuid
 
 print("Processando Arquivo...")
 files = glob('input/*.txt')
+
+if len(files) == 0:
+    print("Nenhum arquivo encontrado em /input!")
+
 for fileName in files:
     print("Encontrado: " + fileName)
 
@@ -24,8 +28,9 @@ for fileName in files:
     print(rFileName)
     # Caso sucesso:
     shutil.move(fileName, "processed/")
-    print("Arquivo processado e movido para /processed \nRetorno salvo em /" +
-          rFileName + "!")
+
+    print("Arquivo processado e movido para /processed")
+    print("Retorno salvo em /" + rFileName + "!")
     pass
 
-print("Fim da execução do sistema.")
+print("Fim da execução do programa.")
