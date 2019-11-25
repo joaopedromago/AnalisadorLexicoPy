@@ -1,0 +1,10 @@
+valor = 5 + 5; /* válida */
+numero = 3 - 52;
+numero = 10 * valor;
+/* válida */ numero = 10 / valor;
+/* inválida */ numero = 10 / valor
+numero = 10 / valor /* inválida */
+for = 2 + 15;
+if = 2 + 15;
+while = 2 + 15; /* inválida */
+for = 2 + 15;

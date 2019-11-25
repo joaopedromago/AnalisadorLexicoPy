@@ -1,0 +1,7 @@
+
+1: String Válida!
+2: String Válida!
+3: String Válida!
+4: String Válida!
+String Inválida, erro na linha: 5
+String Inválida, erro na linha: 6
