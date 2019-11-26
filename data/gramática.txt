@@ -42,3 +42,58 @@ b - Branco
 op - Operadores
 qq - Qualquer coisa
 y - Lambida
+
+/* Gramática tratar linguagem
+/* Válido somente se existir algum: for, while, if, else, int, float, string, do, double, const, var, public, class, private, case, switch, char, break
+0 - i1 | w3 | f4 | d5 | c6 | v7 | p2 | e27 | s29 | b48 | qq9
+1 - f10 | n12 | qq9
+2 - u8 | r37 | qq9
+3 - h13 | qq9
+4 - o16 | l30 | qq9
+5 - o17 | qq9
+6 - o21 | l22 | a36 | h7 | qq9
+7 - a16 | qq9
+8 - b38 | qq9
+9 - qq9 | bl0 | op0 | =0
+10 - qq9 | bl11 | op11 | =11 | y
+11 - y
+12 - t10 | qq9
+13 - i14 | qq9
+14 - l15 | qq9
+15 - e10 | qq9
+16 - r10 | qq9
+17 - u18 | qq9 | bl11 | op11 | =11 | y
+18 - b19 | qq9
+19 - l20 | qq9
+20 - e10 | qq9
+21 - n25 | qq9
+22 - a23 | qq9
+23 - s24 | qq9
+24 - s10 | qq9
+25 - s26 | qq9
+26 - t10 | qq9
+27 - l28 | qq9
+28 - s20 | qq9
+29 - t32 | w44 |qq9
+30 - o31 | qq9
+31 - a12 | qq9
+32 - r33 | qq9
+33 - i34 | qq9
+34 - n35 | qq9
+35 - g10 | qq9
+36 - s20 | qq9
+37 - i41 | qq9
+38 - l39 | qq9
+39 - i40 | qq9
+40 - c10 | qq9
+41 - v42 | qq9
+42 - a43 | qq9
+43 - t15 | qq9
+44 - i45 | qq9
+45 - t46 | qq9
+46 - c47 | qq9
+47 - h10 | qq9
+48 - r49 | qq9
+49 - e50 | qq9
+50 - a51 | qq9
+51 - k10 | qq9

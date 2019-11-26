@@ -20,7 +20,7 @@ Para testar, basta colocar um arquivo .txt na pasta /input, executar "py project
    Terminar por letras, por algarismos, por espaços (brancos) ou por um comentário da forma /_ ... _/.
 4. Considera comentários // em qualquer lugar da expressão.
 5. Verifica se as variáveis têm nome de palavras reservadas.
-   Exemplo: for, while, if, else, int, float, string, etc.
+   Inválidos: for, while, if, else, int, float, string, do, double, const, var, public, class, private, case, switch, char, break.
 6. Todas as sentenças devem terminar com ; (ponto e vírgula).
 7. Os espaços em branco não são removidos durante a análise.
 8. Cada registro do arquivo de entrada, (cada linha) será considerado uma expressão e uma expressão será colocada totalmente em uma única linha: a expressão não poderá continuar na linha seguinte.

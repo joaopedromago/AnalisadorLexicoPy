@@ -8,3 +8,4 @@ for = 2 + 15;
 if = 2 + 15;
 while = 2 + 15; /* inválida */
 for = 2 + 15;
+formiga = 14             - 5;

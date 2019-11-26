@@ -5,3 +5,8 @@
 4: String Válida!
 String Inválida, erro na linha: 5
 String Inválida, erro na linha: 6
+String Inválida, erro na linha: 7
+String Inválida, erro na linha: 8
+String Inválida, erro na linha: 9
+String Inválida, erro na linha: 10
+11: String Válida!
