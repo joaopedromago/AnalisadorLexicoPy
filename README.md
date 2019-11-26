@@ -24,3 +24,5 @@ Para testar, basta colocar um arquivo .txt na pasta /input, executar "py project
 6. Todas as sentenças devem terminar com ; (ponto e vírgula).
 7. Os espaços em branco não são removidos durante a análise.
 8. Cada registro do arquivo de entrada, (cada linha) será considerado uma expressão e uma expressão será colocada totalmente em uma única linha: a expressão não poderá continuar na linha seguinte.
+
+Apresentação: https://docs.google.com/presentation/d/14loN8ArIcnsBWEd2gdDyKAC9IUnoT1wjCKChmF0HRfw/edit?usp=sharing
